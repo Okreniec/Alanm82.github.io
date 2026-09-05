@@ -1,4 +1,4 @@
-class Colaboracion {
+class Empatia {
 
     constructor() {
 
